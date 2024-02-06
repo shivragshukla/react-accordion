@@ -1,0 +1,29 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.accordion {
+	width: 700px;
+	margin-top: 3rem;
+
+}
+.item {
+	margin-bottom: 2rem;
+	font-size: 15px;
+	background: #CCCCCC;
+}
+.title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #0078d4;
+	color: #FFF;
+	padding: 6px 12px;
+}
+.title span {
+	margin-left: 1rem;
+}
+.body {
+	padding: 12px 15px;
+}
