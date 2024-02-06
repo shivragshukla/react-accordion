@@ -14,7 +14,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
@@ -28,6 +28,7 @@ Your app is ready to be deployed!
 ### `npm run eject`
 
 ### Screenshot
+![image](https://github.com/shivragshukla/react-accordion/assets/30346330/b0391311-ba64-4ab8-b572-310873922335)
 
 ### Advanced Configuration
 
